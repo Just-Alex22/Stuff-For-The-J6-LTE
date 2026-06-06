@@ -38,6 +38,12 @@ If you can't access settings for whatever reason, just turn your phone around an
 #### Why do I need a custom recovery?
 Custom recoveries are necessary to properly flash custom ROMs, wipe partitions, sideload, etcetera. Without one, the process can´t continue.
 
+## Vendor files:
+
+| Vendor | Details | Status |
+| - | - | - |
+| **[Vendor](https://github.com/Exynos7870-Revived/android_device_samsung_j6lte)** | Haven't tested it yet, it could work it could not. Thanks to the [Exynos7870 Revived Team](https://github.com/Exynos7870-Revived/) for the image. | Untested |
+
 ## ROMs:
 
 ## /e/OS
