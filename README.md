@@ -63,7 +63,7 @@ Custom recoveries are necessary to properly flash custom ROMs, wipe partitions, 
 
 | Custom ROM | Details | Status |
 | - | - | - |
-| **[LineagueOS 19.1](https://github.com/Exynos7870-Revived/Releases/releases/download/lineage-19.1-test7-18112023/lineage-19.1-20231118-UNOFFICIAL-j6lte.zip)** | For some reason my device just refuses to detect the file. | Untested |
+| **[LineagueOS 19.1](https://github.com/Exynos7870-Revived/Releases/releases/download/lineage-19.1-test7-18112023/lineage-19.1-20231118-UNOFFICIAL-j6lte.zip)** | For some reason my device just refuses to detect the file. | Not Sure |
 
 > **Notice:**
 > if all of these images don't work for you, just install a generic system image. They are way easier to find but the results can vary between devices and ROMs
